@@ -1,0 +1,85 @@
+{
+  "random" : false,
+  "authPass" : null,
+  "useOnlinePac" : false,
+  "TTL" : 0,
+  "global" : false,
+  "reconnectTimes" : 3,
+  "index" : 0,
+  "proxyType" : 0,
+  "proxyHost" : null,
+  "authUser" : null,
+  "proxyAuthPass" : null,
+  "isDefault" : false,
+  "pacUrl" : null,
+  "configs" : [
+    {
+      "enable" : true,
+      "password" : "tbox888666",
+      "method" : "aes-256-cfb",
+      "remarks" : "新服务器",
+      "server" : "52.199.25.74",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 9001,
+      "remarks_base64" : "5paw5pyN5Yqh5Zmo"
+    },
+    {
+      "enable" : true,
+      "password" : "MjEzNWU2MT",
+      "method" : "aes-256-cfb",
+      "remarks" : "新服务器",
+      "server" : "176.122.176.183",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 443,
+      "remarks_base64" : "5paw5pyN5Yqh5Zmo"
+    },
+    {
+      "enable" : true,
+      "password" : "MDU3MTZmNT",
+      "method" : "aes-256-cfb",
+      "remarks" : "新服务器",
+      "server" : "95.163.200.231",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 443,
+      "remarks_base64" : "5paw5pyN5Yqh5Zmo"
+    }
+  ],
+  "proxyPort" : 0,
+  "randomAlgorithm" : 0,
+  "proxyEnable" : false,
+  "enabled" : true,
+  "autoban" : false,
+  "proxyAuthUser" : null,
+  "shareOverLan" : false,
+  "localPort" : 1080
+}

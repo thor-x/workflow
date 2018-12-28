@@ -1,0 +1,11 @@
+# oh my zsh
+https://github.com/robbyrussell/oh-my-zsh
+# Homebrew
+https://brew.sh/
+# autojump
+https://github.com/wting/autojump
+# nvm
+https://github.com/creationix/nvm
+nvm install 8.11.1
+# java
+https://www.cnblogs.com/ostrich-sunshine/p/8414677.html
