@@ -1,4 +1,5 @@
 # oh my zsh
+https://slarker.me/iterm2-proxy/
 https://github.com/robbyrussell/oh-my-zsh
 # Homebrew
 https://brew.sh/
