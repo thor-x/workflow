@@ -1,12 +1,15 @@
 # oh my zsh
-https://slarker.me/iterm2-proxy/
+https://slarker.me/iterm2-proxy
 https://github.com/robbyrussell/oh-my-zsh
 # Homebrew
 https://brew.sh/
 # autojump
 https://github.com/wting/autojump
-# nvm
+# nvm（不推荐）
 https://github.com/creationix/nvm
 nvm install 8.11.1
+# volta（推荐）
+https://volta.sh
+https://juejin.cn/post/7102627615172722702
 # java
 https://www.cnblogs.com/ostrich-sunshine/p/8414677.html
